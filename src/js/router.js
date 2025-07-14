@@ -5,7 +5,7 @@ import { showRegister } from '../views/register.js';
 import { showDashboard } from '../views/dashboard.js';
 import { showCreateEvent } from '../views/createEvent.js';
 import { showEditEvent } from '../views/editEvent.js';
-import { showNotFound } from '../views/notFound.js';
+import { showNotFound } from '../views/notFount.js';
 import { isAuthenticated, isAdmin } from './auth.js';
 
 // Rutas base sin parámetros

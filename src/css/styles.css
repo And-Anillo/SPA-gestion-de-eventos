@@ -28,7 +28,7 @@ body {
 /* Titles */
 h2,
 h3 {
-    color: #6a5acd;
+    color: #0d0e09;
     margin-bottom: 16px;
 }
 
@@ -62,7 +62,7 @@ button {
     padding: 10px 14px;
     border: none;
     border-radius: 8px;
-    background-color: #ffb6b9;
+    background-color: #0972eb;
     color: white;
     font-weight: bold;
     cursor: pointer;
@@ -70,12 +70,12 @@ button {
 }
 
 button:hover {
-    background-color: #ff9aa2;
+    background-color: #378ef1;
 }
 
 /* Logout button */
 .logout {
-    background-color: #f44336;
+    background-color: #f71201;
     color: white;
     padding: 8px 16px;
     font-size: 0.9em;
@@ -92,7 +92,7 @@ a {
     display: inline-block;
     margin-top: 12px;
     text-decoration: none;
-    color: #6a5acd;
+    color: #2079df;
     font-size: 0.95em;
 }
 
@@ -107,7 +107,7 @@ a {
 
 /* Card for each event */
 .event-card {
-    background-color: #fff0f5;
+    background-color: #f8e4c9;
     padding: 16px;
     margin-bottom: 16px;
     border-radius: 12px;
@@ -124,7 +124,7 @@ a {
 }
 
 .event-card .register-btn {
-    background-color: #f06292;
+    background-color: #221502;
     margin-top: 8px;
 }
 

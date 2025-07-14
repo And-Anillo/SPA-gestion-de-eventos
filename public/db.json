@@ -1,3 +1,49 @@
 {
-    
+  "users": [
+    {
+      "id": "1e0c",
+      "name": "Contrera",
+      "email": "juandc1@gmail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "0d54",
+      "name": "Carlos",
+      "email": "carlospro@gmail.com",
+      "password": "carlitos123",
+      "role": "user"
+    },
+    {
+      "id": "3051",
+      "name": "andersson",
+      "email": "anderssoninedjas@gmail.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "events": [
+    {
+      "id": "101",
+      "name": "Conferencia JS",
+      "date": "2025-08-10",
+      "location": "Auditorio Bogotá",
+      "capacity": 100,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Taller de React",
+      "date": "2025-08-20",
+      "location": "Cali Tech Hub",
+      "capacity": 50,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    }
+  ]
 }
