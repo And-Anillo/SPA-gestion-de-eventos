@@ -157,6 +157,39 @@
         "0d54",
         "3051"
       ]
+    },
+    {
+      "id": "103",
+      "name": "cualquiera",
+      "date": "2026-03-26",
+      "location": "newyork citys",
+      "capacity": 5000000,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "mas",
+      "date": "2026-03-26",
+      "location": "newyork citys",
+      "capacity": 5000000,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "menos",
+      "date": "2026-03-26",
+      "location": "newyork citys",
+      "capacity": 5000000,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
     }
   ]
 }
