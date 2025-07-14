@@ -35,7 +35,7 @@ export function showRegister() {
             name,
             email,
             password,
-            role: "user" // ← 🔥 ROL "USER" QUEMADO
+            role: "user" // ←  ROL "USER" QUEMADO
         };
 
         try {

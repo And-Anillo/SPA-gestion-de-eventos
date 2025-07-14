@@ -45,10 +45,10 @@ export function router() {
     const publicRoutes = ['#/login', '#/register'];
 
     // Si no está autenticado y la ruta no es pública, redirigir a not-found
-    if (!isAuthenticated() && !publicRoutes.includes(path)) {
+    /*if (!isAuthenticated() && !publicRoutes.includes(path)) {
         window.location.hash = '#/not-found';
         return;
-    }
+    }*/
 
     // Si existe la ruta, ejecutarla
     const render = routes[path];

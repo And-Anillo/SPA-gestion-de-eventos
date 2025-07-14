@@ -72,7 +72,7 @@ function renderEvent(event, user) {
         }
 
       ${isAdmin()
-            ? `<a href="#/dashboard/events/edit?id=${event.id}">✏️ Editar</a>`
+            ? `<a href="#/dashboard/events/edit?id=${event.id}"> Editar</a>`
             : ''
         }
     </div>
