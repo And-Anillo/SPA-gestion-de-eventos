@@ -27,7 +27,9 @@ A continuación se detallan los pasos para levantar y usar la solución:
    ```bash
    cd SPA-gestion-de-eventos
    ```
-3. Instala las dependencias del proyecto:
+3. Instala vite 
+
+4. Instala las dependencias del proyecto:
    ```bash
    npm install
    ```
@@ -35,9 +37,11 @@ A continuación se detallan los pasos para levantar y usar la solución:
 ### Uso
 
 1. Inicia el servidor de desarrollo:
-   ```bash
-   npm start
+   ```npm run dev
    ```
-2. Abre tu navegador y ve a `http://localhost:8080` (o el puerto que se indique en la consola).
+2. Abre tu navegador y ve a `http://localhost:5173/` (o el puerto que se indique en la consola).
+
+3. recuerda instalar json-server para utilizarlo como base de dato
+lo corres con npx json-server public/db.json
 
 ¡Gracias por visitar mi repositorio!
