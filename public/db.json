@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "id": "1e0c",
+      "name": "anderson",
+      "email": "andersoninedjas@mail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "0d54",
+      "name": "Carlos",
+      "email": "carlos@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "3051",
+      "name": "sebastian",
+      "email": "tian@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "77f9",
+      "name": "jose",
+      "email": "jose@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "098c",
+      "name": "cristian",
+      "email": "cristian@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "5fc0",
+      "name": "sebastian",
+      "email": "cabarcas@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "9c74",
+      "name": "javier",
+      "email": "combita@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "cc8b",
+      "name": "elias",
+      "email": "ching@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "5b1b",
+      "name": "juan",
+      "email": "contreras@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "b778",
+      "name": "hafib",
+      "email": "hafib@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "6142",
+      "name": "dylan",
+      "email": "dylan@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "08ae",
+      "name": "yoshira",
+      "email": "yoshira@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "f9be",
+      "name": "rafael",
+      "email": "rafael@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "a9a1",
+      "name": "santiago",
+      "email": "santiago@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "21c9",
+      "name": "juan",
+      "email": "juanaron@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "03b6",
+      "name": "john",
+      "email": "johndoe@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "94f1",
+      "name": "juancho",
+      "email": "juanchorois@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "de80",
+      "name": "diomedes",
+      "email": "diomedesdiaz@mail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "9b4a",
+      "name": "anderson",
+      "email": "anderson@mail.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "events": [
+    {
+      "id": "101",
+      "name": "sustentacion de javascript",
+      "date": "2025-07-15",
+      "location": "barranquilla riwi",
+      "capacity": 150,
+      "registeredUsers": [
+        "0d54",
+        "3051",
+        "9b4a"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "GTA 6",
+      "date": "2026-03-26",
+      "location": "newyork citys",
+      "capacity": 5000000,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "cualquiera",
+      "date": "2026-03-26",
+      "location": "newyork citys",
+      "capacity": 5000000,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Riwi's certification",
+      "date": "2026-02-28",
+      "location": "medellin",
+      "capacity": 20000,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "charla sobre java",
+      "date": "2025-08-20",
+      "location": "barranquilla centro historico",
+      "capacity": 40,
+      "registeredUsers": [
+        "0d54",
+        "3051"
+      ]
+    }
+  ]
+}
